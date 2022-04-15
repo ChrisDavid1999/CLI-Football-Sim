@@ -1,0 +1,440 @@
+----- Round 1 ----- 
+3 - Young vs Rangers - 4
+4 - Chimpanzees vs Calm Bears - 2
+5 - Roosters vs Theives - 2
+2 - Purples vs Panthers - 2
+4 - Admirals vs Striders - 0
+1 - Splicers vs Creative Turtles - 0
+2 - Oranges vs Wolves - 3
+4 - Royals vs Terrific - 1
+
+----- Round 2 ----- 
+0 - Young vs Chimpanzees - 1
+1 - Calm Bears vs Roosters - 2
+0 - Theives vs Purples - 1
+2 - Panthers vs Admirals - 2
+1 - Striders vs Splicers - 1
+4 - Creative Turtles vs Oranges - 0
+5 - Wolves vs Royals - 4
+2 - Terrific vs Rangers - 3
+
+----- Round 3 ----- 
+0 - Young vs Calm Bears - 1
+0 - Roosters vs Theives - 3
+1 - Purples vs Panthers - 3
+3 - Admirals vs Striders - 2
+2 - Splicers vs Creative Turtles - 3
+4 - Oranges vs Wolves - 2
+5 - Royals vs Terrific - 4
+3 - Rangers vs Chimpanzees - 3
+
+----- Round 4 ----- 
+1 - Young vs Roosters - 3
+3 - Theives vs Purples - 3
+4 - Panthers vs Admirals - 2
+2 - Striders vs Splicers - 2
+3 - Creative Turtles vs Oranges - 4
+5 - Wolves vs Royals - 4
+4 - Terrific vs Rangers - 3
+2 - Chimpanzees vs Calm Bears - 0
+
+----- Round 5 ----- 
+5 - Young vs Theives - 0
+1 - Purples vs Panthers - 3
+5 - Admirals vs Striders - 3
+4 - Splicers vs Creative Turtles - 1
+4 - Oranges vs Wolves - 3
+1 - Royals vs Terrific - 1
+1 - Rangers vs Chimpanzees - 4
+5 - Calm Bears vs Roosters - 0
+
+----- Round 6 ----- 
+3 - Young vs Purples - 2
+4 - Panthers vs Admirals - 3
+2 - Striders vs Splicers - 3
+3 - Creative Turtles vs Oranges - 2
+4 - Wolves vs Royals - 1
+2 - Terrific vs Rangers - 2
+0 - Chimpanzees vs Calm Bears - 1
+2 - Roosters vs Theives - 3
+
+----- Round 7 ----- 
+2 - Young vs Panthers - 0
+1 - Admirals vs Striders - 2
+0 - Splicers vs Creative Turtles - 3
+1 - Oranges vs Wolves - 3
+0 - Royals vs Terrific - 0
+2 - Rangers vs Chimpanzees - 2
+0 - Calm Bears vs Roosters - 3
+1 - Theives vs Purples - 2
+
+----- Round 8 ----- 
+0 - Young vs Admirals - 2
+4 - Striders vs Splicers - 0
+3 - Creative Turtles vs Oranges - 0
+2 - Wolves vs Royals - 1
+3 - Terrific vs Rangers - 3
+1 - Chimpanzees vs Calm Bears - 2
+4 - Roosters vs Theives - 2
+1 - Purples vs Panthers - 1
+
+----- Round 9 ----- 
+4 - Young vs Striders - 1
+4 - Splicers vs Creative Turtles - 3
+4 - Oranges vs Wolves - 2
+2 - Royals vs Terrific - 3
+5 - Rangers vs Chimpanzees - 2
+5 - Calm Bears vs Roosters - 2
+0 - Theives vs Purples - 4
+0 - Panthers vs Admirals - 2
+
+----- Round 10 ----- 
+2 - Young vs Splicers - 3
+0 - Creative Turtles vs Oranges - 4
+4 - Wolves vs Royals - 1
+1 - Terrific vs Rangers - 3
+4 - Chimpanzees vs Calm Bears - 2
+0 - Roosters vs Theives - 0
+0 - Purples vs Panthers - 2
+2 - Admirals vs Striders - 3
+
+----- Round 11 ----- 
+1 - Young vs Creative Turtles - 1
+5 - Oranges vs Wolves - 3
+4 - Royals vs Terrific - 2
+5 - Rangers vs Chimpanzees - 2
+1 - Calm Bears vs Roosters - 2
+5 - Theives vs Purples - 1
+5 - Panthers vs Admirals - 2
+2 - Striders vs Splicers - 1
+
+----- Round 12 ----- 
+5 - Young vs Oranges - 2
+3 - Wolves vs Royals - 1
+5 - Terrific vs Rangers - 0
+2 - Chimpanzees vs Calm Bears - 4
+3 - Roosters vs Theives - 3
+5 - Purples vs Panthers - 4
+4 - Admirals vs Striders - 3
+0 - Splicers vs Creative Turtles - 3
+
+----- Round 13 ----- 
+5 - Young vs Wolves - 1
+5 - Royals vs Terrific - 2
+5 - Rangers vs Chimpanzees - 1
+4 - Calm Bears vs Roosters - 0
+2 - Theives vs Purples - 4
+3 - Panthers vs Admirals - 0
+5 - Striders vs Splicers - 2
+0 - Creative Turtles vs Oranges - 1
+
+----- Round 14 ----- 
+0 - Young vs Royals - 3
+5 - Terrific vs Rangers - 2
+0 - Chimpanzees vs Calm Bears - 1
+5 - Roosters vs Theives - 1
+1 - Purples vs Panthers - 2
+5 - Admirals vs Striders - 3
+5 - Splicers vs Creative Turtles - 1
+5 - Oranges vs Wolves - 2
+
+----- Round 15 ----- 
+5 - Young vs Terrific - 1
+3 - Rangers vs Chimpanzees - 3
+4 - Calm Bears vs Roosters - 4
+4 - Theives vs Purples - 0
+1 - Panthers vs Admirals - 2
+4 - Striders vs Splicers - 0
+3 - Creative Turtles vs Oranges - 4
+5 - Wolves vs Royals - 2
+
+----- Round 1 ----- 
+0 - Rangers vs Young - 1
+5 - Calm Bears vs Chimpanzees - 0
+3 - Theives vs Roosters - 3
+4 - Panthers vs Purples - 1
+2 - Striders vs Admirals - 1
+5 - Creative Turtles vs Splicers - 2
+5 - Wolves vs Oranges - 4
+3 - Terrific vs Royals - 0
+
+----- Round 2 ----- 
+2 - Chimpanzees vs Young - 0
+3 - Roosters vs Calm Bears - 0
+5 - Purples vs Theives - 2
+3 - Admirals vs Panthers - 2
+0 - Splicers vs Striders - 0
+0 - Oranges vs Creative Turtles - 1
+5 - Royals vs Wolves - 1
+2 - Rangers vs Terrific - 0
+
+----- Round 3 ----- 
+2 - Calm Bears vs Young - 2
+5 - Theives vs Roosters - 3
+3 - Panthers vs Purples - 1
+1 - Striders vs Admirals - 1
+3 - Creative Turtles vs Splicers - 3
+3 - Wolves vs Oranges - 3
+1 - Terrific vs Royals - 3
+0 - Chimpanzees vs Rangers - 4
+
+----- Round 4 ----- 
+4 - Roosters vs Young - 3
+3 - Purples vs Theives - 2
+1 - Admirals vs Panthers - 2
+3 - Splicers vs Striders - 0
+0 - Oranges vs Creative Turtles - 1
+5 - Royals vs Wolves - 4
+2 - Rangers vs Terrific - 1
+0 - Calm Bears vs Chimpanzees - 4
+
+----- Round 5 ----- 
+3 - Theives vs Young - 0
+3 - Panthers vs Purples - 4
+0 - Striders vs Admirals - 0
+1 - Creative Turtles vs Splicers - 4
+1 - Wolves vs Oranges - 3
+0 - Terrific vs Royals - 0
+5 - Chimpanzees vs Rangers - 0
+0 - Roosters vs Calm Bears - 4
+
+----- Round 6 ----- 
+2 - Purples vs Young - 2
+0 - Admirals vs Panthers - 0
+5 - Splicers vs Striders - 4
+4 - Oranges vs Creative Turtles - 3
+2 - Royals vs Wolves - 3
+1 - Rangers vs Terrific - 3
+3 - Calm Bears vs Chimpanzees - 4
+1 - Theives vs Roosters - 1
+
+----- Round 7 ----- 
+1 - Panthers vs Young - 1
+0 - Striders vs Admirals - 3
+0 - Creative Turtles vs Splicers - 1
+1 - Wolves vs Oranges - 2
+2 - Terrific vs Royals - 4
+3 - Chimpanzees vs Rangers - 4
+4 - Roosters vs Calm Bears - 0
+3 - Purples vs Theives - 3
+
+----- Round 8 ----- 
+1 - Admirals vs Young - 2
+4 - Splicers vs Striders - 2
+2 - Oranges vs Creative Turtles - 3
+4 - Royals vs Wolves - 2
+4 - Rangers vs Terrific - 3
+1 - Calm Bears vs Chimpanzees - 4
+3 - Theives vs Roosters - 1
+3 - Panthers vs Purples - 3
+
+----- Round 9 ----- 
+4 - Striders vs Young - 4
+4 - Creative Turtles vs Splicers - 0
+1 - Wolves vs Oranges - 2
+1 - Terrific vs Royals - 0
+2 - Chimpanzees vs Rangers - 1
+4 - Roosters vs Calm Bears - 0
+5 - Purples vs Theives - 1
+4 - Admirals vs Panthers - 3
+
+----- Round 10 ----- 
+4 - Splicers vs Young - 1
+1 - Oranges vs Creative Turtles - 3
+0 - Royals vs Wolves - 4
+3 - Rangers vs Terrific - 1
+1 - Calm Bears vs Chimpanzees - 2
+5 - Theives vs Roosters - 1
+3 - Panthers vs Purples - 2
+5 - Striders vs Admirals - 2
+
+----- Round 11 ----- 
+1 - Creative Turtles vs Young - 1
+1 - Wolves vs Oranges - 4
+2 - Terrific vs Royals - 0
+0 - Chimpanzees vs Rangers - 4
+5 - Roosters vs Calm Bears - 4
+2 - Purples vs Theives - 1
+0 - Admirals vs Panthers - 1
+3 - Splicers vs Striders - 4
+
+----- Round 12 ----- 
+1 - Oranges vs Young - 3
+1 - Royals vs Wolves - 2
+3 - Rangers vs Terrific - 4
+3 - Calm Bears vs Chimpanzees - 0
+0 - Theives vs Roosters - 0
+0 - Panthers vs Purples - 0
+2 - Striders vs Admirals - 3
+0 - Creative Turtles vs Splicers - 2
+
+----- Round 13 ----- 
+3 - Wolves vs Young - 3
+5 - Terrific vs Royals - 0
+3 - Chimpanzees vs Rangers - 3
+3 - Roosters vs Calm Bears - 2
+0 - Purples vs Theives - 0
+5 - Admirals vs Panthers - 0
+4 - Splicers vs Striders - 1
+2 - Oranges vs Creative Turtles - 4
+
+----- Round 14 ----- 
+4 - Royals vs Young - 0
+5 - Rangers vs Terrific - 2
+1 - Calm Bears vs Chimpanzees - 4
+2 - Theives vs Roosters - 1
+2 - Panthers vs Purples - 2
+2 - Striders vs Admirals - 0
+2 - Creative Turtles vs Splicers - 4
+1 - Wolves vs Oranges - 3
+
+----- Round 15 ----- 
+1 - Terrific vs Young - 3
+0 - Chimpanzees vs Rangers - 1
+5 - Roosters vs Calm Bears - 0
+4 - Purples vs Theives - 0
+3 - Admirals vs Panthers - 3
+4 - Splicers vs Striders - 1
+5 - Oranges vs Creative Turtles - 3
+4 - Royals vs Wolves - 2
+
+
+
+Team Performance
+
+Young G:30 PTS:40 W:11 D:7 L:12 GF:62 GA:58
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rangers G:30 PTS:51 W:15 D:6 L:9 GF:81 GA:70
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chimpanzees G:30 PTS:43 W:13 D:4 L:13 GF:64 GA:67
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Calm Bears G:30 PTS:35 W:11 D:2 L:17 GF:59 GA:70
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Roosters G:30 PTS:48 W:14 D:6 L:10 GF:73 GA:67
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Theives G:30 PTS:35 W:9 D:8 L:13 GF:60 GA:71
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Purples G:30 PTS:42 W:11 D:9 L:10 GF:65 GA:64
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Panthers G:30 PTS:48 W:13 D:9 L:8 GF:66 GA:56
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Admirals G:30 PTS:44 W:13 D:5 L:12 GF:66 GA:60
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Striders G:30 PTS:36 W:10 D:6 L:14 GF:65 GA:74
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Splicers G:30 PTS:52 W:16 D:4 L:10 GF:71 GA:64
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Creative Turtles G:30 PTS:42 W:13 D:3 L:14 GF:65 GA:63
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Oranges G:30 PTS:49 W:16 D:1 L:13 GF:78 GA:73
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Wolves G:30 PTS:41 W:13 D:2 L:15 GF:81 GA:89
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Royals G:30 PTS:39 W:12 D:3 L:15 GF:70 GA:73
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Terrific G:30 PTS:35 W:10 D:5 L:15 GF:65 GA:72
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Players Goals
+
+Young
+Serge Rating: 0 Games:30 Goals:22
+Musiala Rating: 0 Games:30 Goals:17
+Pulisic Rating: 0 Games:30 Goals:23
+
+Rangers
+Iwobi Rating: 0 Games:30 Goals:28
+Haaland Rating: 0 Games:30 Goals:35
+Robertson Rating: 0 Games:30 Goals:18
+
+Chimpanzees
+Coutinho Rating: 0 Games:30 Goals:21
+Pedri Rating: 0 Games:30 Goals:29
+Cavani Rating: 0 Games:30 Goals:14
+
+Calm Bears
+Romalu Rating: 0 Games:30 Goals:23
+Moutinho Rating: 0 Games:30 Goals:20
+Dane Rating: 0 Games:30 Goals:16
+
+Roosters
+Martial Rating: 0 Games:30 Goals:29
+Rayan Rating: 0 Games:30 Goals:22
+Werner Rating: 0 Games:30 Goals:22
+
+Theives
+Rashford Rating: 0 Games:30 Goals:17
+Kovacic Rating: 0 Games:30 Goals:23
+Lukaku Rating: 0 Games:30 Goals:20
+
+Purples
+Asensio Rating: 0 Games:30 Goals:24
+Drew Rating: 0 Games:30 Goals:26
+Aubma Rating: 0 Games:30 Goals:15
+
+Panthers
+Abraham Rating: 0 Games:30 Goals:22
+Perez Rating: 0 Games:30 Goals:20
+Butters Rating: 0 Games:30 Goals:24
+
+Admirals
+Riyad Rating: 0 Games:30 Goals:32
+Luis Rating: 0 Games:30 Goals:16
+Barnes Rating: 0 Games:30 Goals:18
+
+Striders
+Messi Rating: 0 Games:30 Goals:22
+Philips Rating: 0 Games:30 Goals:22
+Felix Rating: 0 Games:30 Goals:21
+
+Splicers
+Andre Rating: 0 Games:30 Goals:21
+Bruno Rating: 0 Games:30 Goals:18
+Fredicko Rating: 0 Games:30 Goals:32
+
+Creative Turtles
+Bukayo Rating: 0 Games:30 Goals:25
+Inkay Rating: 0 Games:30 Goals:19
+Minamino Rating: 0 Games:30 Goals:21
+
+Oranges
+Kevin Rating: 0 Games:30 Goals:23
+Mikkel Rating: 0 Games:30 Goals:28
+Odegard Rating: 0 Games:30 Goals:27
+
+Wolves
+Antonio Rating: 0 Games:30 Goals:27
+David Rating: 0 Games:30 Goals:25
+Bale Rating: 0 Games:30 Goals:29
+
+Royals
+Foden Rating: 0 Games:30 Goals:23
+Coman Rating: 0 Games:30 Goals:28
+Reece Rating: 0 Games:30 Goals:19
+
+Terrific
+Brahim Rating: 0 Games:30 Goals:26
+Tanguy Rating: 0 Games:30 Goals:21
+Eden Rating: 0 Games:30 Goals:18
+
+
+
+League Table
+
+1.Splicers - 52
+2.Rangers - 51
+3.Oranges - 49
+4.Roosters - 48
+5.Panthers - 48
+6.Admirals - 44
+7.Chimpanzees - 43
+8.Purples - 42
+9.Creative Turtles - 42
+10.Wolves - 41
+11.Young - 40
+12.Royals - 39
+13.Striders - 36
+14.Calm Bears - 35
+15.Theives - 35
+16.Terrific - 35

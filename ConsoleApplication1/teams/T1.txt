@@ -1,0 +1,4 @@
+T1
+Alexander 0 106 25 1
+Adama 0 107 35 1
+Munain 0 95 21 1

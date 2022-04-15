@@ -1,0 +1,4 @@
+Striders
+Messi 0 104 22 1
+Philips 0 108 22 1
+Felix 0 93 21 1

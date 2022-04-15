@@ -1,0 +1,440 @@
+----- Round 1 ----- 
+0 - Bears vs Citizens - 1
+5 - Cloud 9 vs Regal Cranes - 3
+2 - Giants vs Aces - 0
+2 - Blues vs Tigers - 1
+0 - Mean Ninjas vs Clever - 0
+0 - Goats vs Gusts - 0
+3 - Lost vs Grave Stags - 0
+0 - Wicked Turtles vs Whispers - 2
+
+----- Round 2 ----- 
+1 - Bears vs Cloud 9 - 2
+2 - Regal Cranes vs Giants - 1
+5 - Aces vs Blues - 2
+0 - Tigers vs Mean Ninjas - 4
+5 - Clever vs Goats - 2
+3 - Gusts vs Lost - 2
+2 - Grave Stags vs Wicked Turtles - 0
+2 - Whispers vs Citizens - 2
+
+----- Round 3 ----- 
+0 - Bears vs Regal Cranes - 4
+4 - Giants vs Aces - 2
+4 - Blues vs Tigers - 2
+2 - Mean Ninjas vs Clever - 3
+2 - Goats vs Gusts - 1
+3 - Lost vs Grave Stags - 2
+4 - Wicked Turtles vs Whispers - 1
+4 - Citizens vs Cloud 9 - 0
+
+----- Round 4 ----- 
+5 - Bears vs Giants - 0
+4 - Aces vs Blues - 2
+0 - Tigers vs Mean Ninjas - 2
+4 - Clever vs Goats - 3
+0 - Gusts vs Lost - 4
+4 - Grave Stags vs Wicked Turtles - 4
+3 - Whispers vs Citizens - 3
+4 - Cloud 9 vs Regal Cranes - 1
+
+----- Round 5 ----- 
+3 - Bears vs Aces - 3
+2 - Blues vs Tigers - 3
+0 - Mean Ninjas vs Clever - 2
+3 - Goats vs Gusts - 3
+2 - Lost vs Grave Stags - 2
+5 - Wicked Turtles vs Whispers - 1
+0 - Citizens vs Cloud 9 - 3
+1 - Regal Cranes vs Giants - 2
+
+----- Round 6 ----- 
+0 - Bears vs Blues - 2
+0 - Tigers vs Mean Ninjas - 3
+3 - Clever vs Goats - 2
+4 - Gusts vs Lost - 1
+1 - Grave Stags vs Wicked Turtles - 3
+5 - Whispers vs Citizens - 4
+4 - Cloud 9 vs Regal Cranes - 3
+3 - Giants vs Aces - 0
+
+----- Round 7 ----- 
+1 - Bears vs Tigers - 1
+1 - Mean Ninjas vs Clever - 2
+2 - Goats vs Gusts - 4
+0 - Lost vs Grave Stags - 4
+5 - Wicked Turtles vs Whispers - 0
+3 - Citizens vs Cloud 9 - 0
+5 - Regal Cranes vs Giants - 2
+5 - Aces vs Blues - 1
+
+----- Round 8 ----- 
+2 - Bears vs Mean Ninjas - 2
+3 - Clever vs Goats - 2
+5 - Gusts vs Lost - 4
+5 - Grave Stags vs Wicked Turtles - 2
+0 - Whispers vs Citizens - 1
+0 - Cloud 9 vs Regal Cranes - 0
+3 - Giants vs Aces - 2
+4 - Blues vs Tigers - 2
+
+----- Round 9 ----- 
+1 - Bears vs Clever - 1
+0 - Goats vs Gusts - 2
+5 - Lost vs Grave Stags - 2
+3 - Wicked Turtles vs Whispers - 3
+3 - Citizens vs Cloud 9 - 3
+0 - Regal Cranes vs Giants - 3
+2 - Aces vs Blues - 3
+0 - Tigers vs Mean Ninjas - 4
+
+----- Round 10 ----- 
+0 - Bears vs Goats - 0
+0 - Gusts vs Lost - 4
+4 - Grave Stags vs Wicked Turtles - 2
+4 - Whispers vs Citizens - 3
+2 - Cloud 9 vs Regal Cranes - 3
+5 - Giants vs Aces - 3
+3 - Blues vs Tigers - 4
+3 - Mean Ninjas vs Clever - 2
+
+----- Round 11 ----- 
+1 - Bears vs Gusts - 4
+5 - Lost vs Grave Stags - 0
+3 - Wicked Turtles vs Whispers - 4
+3 - Citizens vs Cloud 9 - 0
+3 - Regal Cranes vs Giants - 0
+1 - Aces vs Blues - 0
+3 - Tigers vs Mean Ninjas - 2
+2 - Clever vs Goats - 4
+
+----- Round 12 ----- 
+5 - Bears vs Lost - 1
+4 - Grave Stags vs Wicked Turtles - 0
+5 - Whispers vs Citizens - 2
+1 - Cloud 9 vs Regal Cranes - 1
+0 - Giants vs Aces - 3
+2 - Blues vs Tigers - 1
+2 - Mean Ninjas vs Clever - 2
+2 - Goats vs Gusts - 2
+
+----- Round 13 ----- 
+2 - Bears vs Grave Stags - 0
+5 - Wicked Turtles vs Whispers - 2
+3 - Citizens vs Cloud 9 - 2
+4 - Regal Cranes vs Giants - 2
+4 - Aces vs Blues - 2
+1 - Tigers vs Mean Ninjas - 2
+0 - Clever vs Goats - 0
+0 - Gusts vs Lost - 1
+
+----- Round 14 ----- 
+0 - Bears vs Wicked Turtles - 4
+3 - Whispers vs Citizens - 3
+4 - Cloud 9 vs Regal Cranes - 3
+3 - Giants vs Aces - 2
+2 - Blues vs Tigers - 1
+1 - Mean Ninjas vs Clever - 4
+5 - Goats vs Gusts - 1
+4 - Lost vs Grave Stags - 4
+
+----- Round 15 ----- 
+2 - Bears vs Whispers - 4
+2 - Citizens vs Cloud 9 - 2
+3 - Regal Cranes vs Giants - 3
+0 - Aces vs Blues - 1
+3 - Tigers vs Mean Ninjas - 2
+5 - Clever vs Goats - 4
+0 - Gusts vs Lost - 3
+3 - Grave Stags vs Wicked Turtles - 3
+
+----- Round 1 ----- 
+5 - Citizens vs Bears - 0
+0 - Regal Cranes vs Cloud 9 - 0
+5 - Aces vs Giants - 2
+4 - Tigers vs Blues - 2
+4 - Clever vs Mean Ninjas - 3
+3 - Gusts vs Goats - 0
+5 - Grave Stags vs Lost - 3
+4 - Whispers vs Wicked Turtles - 0
+
+----- Round 2 ----- 
+1 - Cloud 9 vs Bears - 3
+1 - Giants vs Regal Cranes - 3
+5 - Blues vs Aces - 4
+0 - Mean Ninjas vs Tigers - 0
+2 - Goats vs Clever - 0
+1 - Lost vs Gusts - 1
+4 - Wicked Turtles vs Grave Stags - 4
+1 - Citizens vs Whispers - 0
+
+----- Round 3 ----- 
+2 - Regal Cranes vs Bears - 1
+3 - Aces vs Giants - 2
+5 - Tigers vs Blues - 4
+4 - Clever vs Mean Ninjas - 4
+5 - Gusts vs Goats - 0
+4 - Grave Stags vs Lost - 3
+3 - Whispers vs Wicked Turtles - 1
+2 - Cloud 9 vs Citizens - 4
+
+----- Round 4 ----- 
+5 - Giants vs Bears - 0
+4 - Blues vs Aces - 4
+4 - Mean Ninjas vs Tigers - 4
+5 - Goats vs Clever - 0
+3 - Lost vs Gusts - 1
+0 - Wicked Turtles vs Grave Stags - 0
+4 - Citizens vs Whispers - 4
+0 - Regal Cranes vs Cloud 9 - 1
+
+----- Round 5 ----- 
+0 - Aces vs Bears - 3
+5 - Tigers vs Blues - 3
+2 - Clever vs Mean Ninjas - 2
+3 - Gusts vs Goats - 1
+4 - Grave Stags vs Lost - 4
+3 - Whispers vs Wicked Turtles - 0
+5 - Cloud 9 vs Citizens - 2
+3 - Giants vs Regal Cranes - 1
+
+----- Round 6 ----- 
+0 - Blues vs Bears - 0
+4 - Mean Ninjas vs Tigers - 1
+5 - Goats vs Clever - 1
+1 - Lost vs Gusts - 3
+4 - Wicked Turtles vs Grave Stags - 2
+0 - Citizens vs Whispers - 0
+4 - Regal Cranes vs Cloud 9 - 0
+0 - Aces vs Giants - 4
+
+----- Round 7 ----- 
+4 - Tigers vs Bears - 1
+0 - Clever vs Mean Ninjas - 2
+4 - Gusts vs Goats - 4
+1 - Grave Stags vs Lost - 1
+2 - Whispers vs Wicked Turtles - 1
+4 - Cloud 9 vs Citizens - 4
+0 - Giants vs Regal Cranes - 1
+4 - Blues vs Aces - 2
+
+----- Round 8 ----- 
+5 - Mean Ninjas vs Bears - 2
+3 - Goats vs Clever - 2
+3 - Lost vs Gusts - 4
+5 - Wicked Turtles vs Grave Stags - 3
+4 - Citizens vs Whispers - 0
+0 - Regal Cranes vs Cloud 9 - 1
+2 - Aces vs Giants - 2
+4 - Tigers vs Blues - 2
+
+----- Round 9 ----- 
+3 - Clever vs Bears - 3
+0 - Gusts vs Goats - 4
+0 - Grave Stags vs Lost - 0
+4 - Whispers vs Wicked Turtles - 2
+3 - Cloud 9 vs Citizens - 3
+1 - Giants vs Regal Cranes - 3
+5 - Blues vs Aces - 2
+3 - Mean Ninjas vs Tigers - 0
+
+----- Round 10 ----- 
+4 - Goats vs Bears - 2
+0 - Lost vs Gusts - 2
+2 - Wicked Turtles vs Grave Stags - 3
+0 - Citizens vs Whispers - 0
+3 - Regal Cranes vs Cloud 9 - 4
+2 - Aces vs Giants - 1
+2 - Tigers vs Blues - 2
+2 - Clever vs Mean Ninjas - 0
+
+----- Round 11 ----- 
+3 - Gusts vs Bears - 2
+2 - Grave Stags vs Lost - 1
+2 - Whispers vs Wicked Turtles - 3
+4 - Cloud 9 vs Citizens - 1
+0 - Giants vs Regal Cranes - 0
+0 - Blues vs Aces - 4
+3 - Mean Ninjas vs Tigers - 2
+5 - Goats vs Clever - 1
+
+----- Round 12 ----- 
+5 - Lost vs Bears - 3
+5 - Wicked Turtles vs Grave Stags - 3
+1 - Citizens vs Whispers - 4
+1 - Regal Cranes vs Cloud 9 - 0
+5 - Aces vs Giants - 1
+1 - Tigers vs Blues - 0
+4 - Clever vs Mean Ninjas - 3
+1 - Gusts vs Goats - 2
+
+----- Round 13 ----- 
+0 - Grave Stags vs Bears - 4
+0 - Whispers vs Wicked Turtles - 4
+5 - Cloud 9 vs Citizens - 2
+0 - Giants vs Regal Cranes - 3
+0 - Blues vs Aces - 4
+0 - Mean Ninjas vs Tigers - 0
+0 - Goats vs Clever - 1
+3 - Lost vs Gusts - 1
+
+----- Round 14 ----- 
+3 - Wicked Turtles vs Bears - 1
+1 - Citizens vs Whispers - 3
+1 - Regal Cranes vs Cloud 9 - 4
+2 - Aces vs Giants - 0
+3 - Tigers vs Blues - 4
+2 - Clever vs Mean Ninjas - 4
+5 - Gusts vs Goats - 2
+1 - Grave Stags vs Lost - 0
+
+----- Round 15 ----- 
+3 - Whispers vs Bears - 0
+3 - Cloud 9 vs Citizens - 3
+3 - Giants vs Regal Cranes - 3
+3 - Blues vs Aces - 2
+5 - Mean Ninjas vs Tigers - 2
+2 - Goats vs Clever - 4
+3 - Lost vs Gusts - 0
+0 - Wicked Turtles vs Grave Stags - 0
+
+
+
+Team Performance
+
+Bears G:30 PTS:25 W:6 D:7 L:17 GF:48 GA:72
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Citizens G:30 PTS:41 W:10 D:11 L:9 GF:72 GA:69
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cloud 9 G:30 PTS:47 W:13 D:8 L:9 GF:69 GA:64
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Regal Cranes G:30 PTS:45 W:13 D:6 L:11 GF:61 GA:52
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Giants G:30 PTS:37 W:11 D:4 L:15 GF:58 GA:68
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aces G:30 PTS:42 W:13 D:3 L:14 GF:77 GA:70
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Blues G:30 PTS:42 W:13 D:3 L:14 GF:70 GA:81
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tigers G:30 PTS:35 W:10 D:5 L:15 GF:59 GA:76
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mean Ninjas G:30 PTS:47 W:13 D:8 L:9 GF:72 GA:53
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Clever G:30 PTS:49 W:14 D:7 L:9 GF:68 GA:70
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Goats G:30 PTS:39 W:11 D:6 L:13 GF:70 GA:67
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gusts G:30 PTS:47 W:14 D:5 L:11 GF:65 GA:63
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lost G:30 PTS:42 W:12 D:6 L:12 GF:73 GA:63
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Grave Stags G:30 PTS:40 W:10 D:10 L:10 GF:69 GA:74
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Wicked Turtles G:30 PTS:42 W:12 D:6 L:12 GF:77 GA:70
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Whispers G:30 PTS:49 W:14 D:7 L:9 GF:71 GA:67
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Players Goals
+
+Bears
+Fabio Rating: 0 Games:30 Goals:17
+Kramaric Rating: 0 Games:30 Goals:10
+Dustin Rating: 0 Games:30 Goals:21
+
+Citizens
+Nikunu Rating: 0 Games:30 Goals:26
+Kroos Rating: 0 Games:30 Goals:26
+Leander Rating: 0 Games:30 Goals:20
+
+Cloud 9
+Rozee Rating: 0 Games:30 Goals:21
+Victa Rating: 0 Games:30 Goals:25
+Fantasia Rating: 0 Games:30 Goals:23
+
+Regal Cranes
+Jamal Rating: 0 Games:30 Goals:18
+Richarlison Rating: 0 Games:30 Goals:16
+Powell Rating: 0 Games:30 Goals:27
+
+Giants
+Calvin Rating: 0 Games:30 Goals:15
+Lamela Rating: 0 Games:30 Goals:21
+Berguin Rating: 0 Games:30 Goals:22
+
+Aces
+Hazard Rating: 0 Games:30 Goals:17
+Blessing Rating: 0 Games:30 Goals:27
+Valverde Rating: 0 Games:30 Goals:33
+
+Blues
+Zienic Rating: 0 Games:30 Goals:18
+Aspas Rating: 0 Games:30 Goals:25
+Pablo Rating: 0 Games:30 Goals:27
+
+Tigers
+Ocampos Rating: 0 Games:30 Goals:19
+Kane Rating: 0 Games:30 Goals:23
+Ladhams Rating: 0 Games:30 Goals:17
+
+Mean Ninjas
+Mount Rating: 0 Games:30 Goals:21
+Jesus Rating: 0 Games:30 Goals:30
+Isco Rating: 0 Games:30 Goals:21
+
+Clever
+Ramsey Rating: 0 Games:30 Goals:25
+Jadon Rating: 0 Games:30 Goals:18
+Allan Rating: 0 Games:30 Goals:25
+
+Goats
+Curtis Rating: 0 Games:30 Goals:21
+Demir Rating: 0 Games:30 Goals:23
+Origi Rating: 0 Games:30 Goals:26
+
+Gusts
+Harry Rating: 0 Games:30 Goals:17
+Wout Rating: 0 Games:30 Goals:30
+Gray Rating: 0 Games:30 Goals:18
+
+Lost
+Lingard Rating: 0 Games:30 Goals:18
+Greizman Rating: 0 Games:30 Goals:30
+Lance Rating: 0 Games:30 Goals:25
+
+Grave Stags
+Bowen Rating: 0 Games:30 Goals:28
+Raspadori Rating: 0 Games:30 Goals:27
+Kelichi Rating: 0 Games:30 Goals:14
+
+Wicked Turtles
+Mertens Rating: 0 Games:30 Goals:34
+Keiran Rating: 0 Games:30 Goals:21
+Noble Rating: 0 Games:30 Goals:22
+
+Whispers
+Kayky Rating: 0 Games:30 Goals:26
+Patrice Rating: 0 Games:30 Goals:21
+Victor Rating: 0 Games:30 Goals:24
+
+
+
+League Table
+
+1.Clever - 49
+2.Whispers - 49
+3.Cloud 9 - 47
+4.Mean Ninjas - 47
+5.Gusts - 47
+6.Regal Cranes - 45
+7.Aces - 42
+8.Blues - 42
+9.Lost - 42
+10.Wicked Turtles - 42
+11.Citizens - 41
+12.Grave Stags - 40
+13.Goats - 39
+14.Giants - 37
+15.Tigers - 35
+16.Bears - 25

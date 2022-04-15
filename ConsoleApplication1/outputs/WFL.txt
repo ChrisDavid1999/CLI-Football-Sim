@@ -1,0 +1,440 @@
+----- Round 1 ----- 
+4 - T1 vs Heavenly - 1
+3 - Prime Gophers vs Chosen - 1
+4 - Hungry Werewolves vs Thunder - 2
+2 - Lightning vs Phoenix - 4
+1 - Big Cheese vs Crows - 1
+2 - Spirit vs Silver Androids - 3
+5 - Steel vs Nationals - 1
+2 - Llamas vs Glorious Devils - 4
+
+----- Round 2 ----- 
+5 - T1 vs Prime Gophers - 1
+2 - Chosen vs Hungry Werewolves - 0
+5 - Thunder vs Lightning - 4
+5 - Phoenix vs Big Cheese - 2
+0 - Crows vs Spirit - 1
+2 - Silver Androids vs Steel - 1
+4 - Nationals vs Llamas - 2
+1 - Glorious Devils vs Heavenly - 1
+
+----- Round 3 ----- 
+3 - T1 vs Chosen - 3
+5 - Hungry Werewolves vs Thunder - 1
+5 - Lightning vs Phoenix - 3
+0 - Big Cheese vs Crows - 1
+4 - Spirit vs Silver Androids - 4
+0 - Steel vs Nationals - 1
+0 - Llamas vs Glorious Devils - 0
+3 - Heavenly vs Prime Gophers - 2
+
+----- Round 4 ----- 
+3 - T1 vs Hungry Werewolves - 1
+0 - Thunder vs Lightning - 2
+2 - Phoenix vs Big Cheese - 2
+3 - Crows vs Spirit - 0
+4 - Silver Androids vs Steel - 1
+4 - Nationals vs Llamas - 1
+1 - Glorious Devils vs Heavenly - 3
+3 - Prime Gophers vs Chosen - 3
+
+----- Round 5 ----- 
+5 - T1 vs Thunder - 1
+0 - Lightning vs Phoenix - 3
+5 - Big Cheese vs Crows - 1
+0 - Spirit vs Silver Androids - 3
+0 - Steel vs Nationals - 2
+1 - Llamas vs Glorious Devils - 0
+5 - Heavenly vs Prime Gophers - 1
+0 - Chosen vs Hungry Werewolves - 2
+
+----- Round 6 ----- 
+4 - T1 vs Lightning - 4
+5 - Phoenix vs Big Cheese - 0
+4 - Crows vs Spirit - 2
+0 - Silver Androids vs Steel - 1
+0 - Nationals vs Llamas - 1
+5 - Glorious Devils vs Heavenly - 3
+0 - Prime Gophers vs Chosen - 4
+4 - Hungry Werewolves vs Thunder - 0
+
+----- Round 7 ----- 
+2 - T1 vs Phoenix - 3
+2 - Big Cheese vs Crows - 1
+5 - Spirit vs Silver Androids - 4
+2 - Steel vs Nationals - 3
+3 - Llamas vs Glorious Devils - 3
+3 - Heavenly vs Prime Gophers - 0
+2 - Chosen vs Hungry Werewolves - 2
+0 - Thunder vs Lightning - 3
+
+----- Round 8 ----- 
+5 - T1 vs Big Cheese - 4
+4 - Crows vs Spirit - 1
+1 - Silver Androids vs Steel - 0
+5 - Nationals vs Llamas - 1
+2 - Glorious Devils vs Heavenly - 4
+3 - Prime Gophers vs Chosen - 2
+4 - Hungry Werewolves vs Thunder - 2
+5 - Lightning vs Phoenix - 0
+
+----- Round 9 ----- 
+1 - T1 vs Crows - 2
+5 - Spirit vs Silver Androids - 0
+4 - Steel vs Nationals - 4
+4 - Llamas vs Glorious Devils - 3
+4 - Heavenly vs Prime Gophers - 0
+1 - Chosen vs Hungry Werewolves - 3
+5 - Thunder vs Lightning - 3
+5 - Phoenix vs Big Cheese - 1
+
+----- Round 10 ----- 
+3 - T1 vs Spirit - 1
+5 - Silver Androids vs Steel - 2
+2 - Nationals vs Llamas - 1
+2 - Glorious Devils vs Heavenly - 1
+4 - Prime Gophers vs Chosen - 4
+2 - Hungry Werewolves vs Thunder - 4
+1 - Lightning vs Phoenix - 1
+0 - Big Cheese vs Crows - 4
+
+----- Round 11 ----- 
+5 - T1 vs Silver Androids - 0
+3 - Steel vs Nationals - 0
+2 - Llamas vs Glorious Devils - 2
+1 - Heavenly vs Prime Gophers - 0
+5 - Chosen vs Hungry Werewolves - 4
+4 - Thunder vs Lightning - 1
+0 - Phoenix vs Big Cheese - 1
+5 - Crows vs Spirit - 2
+
+----- Round 12 ----- 
+2 - T1 vs Steel - 0
+3 - Nationals vs Llamas - 4
+5 - Glorious Devils vs Heavenly - 0
+5 - Prime Gophers vs Chosen - 2
+3 - Hungry Werewolves vs Thunder - 4
+2 - Lightning vs Phoenix - 3
+2 - Big Cheese vs Crows - 0
+4 - Spirit vs Silver Androids - 2
+
+----- Round 13 ----- 
+3 - T1 vs Nationals - 1
+2 - Llamas vs Glorious Devils - 1
+2 - Heavenly vs Prime Gophers - 4
+3 - Chosen vs Hungry Werewolves - 1
+4 - Thunder vs Lightning - 0
+2 - Phoenix vs Big Cheese - 3
+3 - Crows vs Spirit - 0
+0 - Silver Androids vs Steel - 0
+
+----- Round 14 ----- 
+2 - T1 vs Llamas - 2
+2 - Glorious Devils vs Heavenly - 2
+2 - Prime Gophers vs Chosen - 2
+1 - Hungry Werewolves vs Thunder - 2
+4 - Lightning vs Phoenix - 3
+1 - Big Cheese vs Crows - 1
+0 - Spirit vs Silver Androids - 3
+3 - Steel vs Nationals - 1
+
+----- Round 15 ----- 
+3 - T1 vs Glorious Devils - 0
+2 - Heavenly vs Prime Gophers - 3
+5 - Chosen vs Hungry Werewolves - 2
+2 - Thunder vs Lightning - 0
+5 - Phoenix vs Big Cheese - 3
+0 - Crows vs Spirit - 4
+5 - Silver Androids vs Steel - 2
+4 - Nationals vs Llamas - 1
+
+----- Round 1 ----- 
+0 - Heavenly vs T1 - 1
+1 - Chosen vs Prime Gophers - 0
+3 - Thunder vs Hungry Werewolves - 3
+3 - Phoenix vs Lightning - 4
+5 - Crows vs Big Cheese - 4
+2 - Silver Androids vs Spirit - 4
+3 - Nationals vs Steel - 1
+5 - Glorious Devils vs Llamas - 2
+
+----- Round 2 ----- 
+0 - Prime Gophers vs T1 - 4
+3 - Hungry Werewolves vs Chosen - 4
+0 - Lightning vs Thunder - 1
+3 - Big Cheese vs Phoenix - 2
+3 - Spirit vs Crows - 3
+2 - Steel vs Silver Androids - 0
+1 - Llamas vs Nationals - 3
+4 - Heavenly vs Glorious Devils - 2
+
+----- Round 3 ----- 
+0 - Chosen vs T1 - 0
+0 - Thunder vs Hungry Werewolves - 2
+5 - Phoenix vs Lightning - 0
+0 - Crows vs Big Cheese - 2
+3 - Silver Androids vs Spirit - 4
+1 - Nationals vs Steel - 2
+5 - Glorious Devils vs Llamas - 3
+0 - Prime Gophers vs Heavenly - 2
+
+----- Round 4 ----- 
+0 - Hungry Werewolves vs T1 - 3
+5 - Lightning vs Thunder - 2
+1 - Big Cheese vs Phoenix - 0
+5 - Spirit vs Crows - 2
+2 - Steel vs Silver Androids - 0
+3 - Llamas vs Nationals - 4
+3 - Heavenly vs Glorious Devils - 0
+4 - Chosen vs Prime Gophers - 0
+
+----- Round 5 ----- 
+1 - Thunder vs T1 - 3
+1 - Phoenix vs Lightning - 3
+4 - Crows vs Big Cheese - 3
+2 - Silver Androids vs Spirit - 1
+0 - Nationals vs Steel - 1
+4 - Glorious Devils vs Llamas - 4
+4 - Prime Gophers vs Heavenly - 2
+3 - Hungry Werewolves vs Chosen - 3
+
+----- Round 6 ----- 
+2 - Lightning vs T1 - 2
+1 - Big Cheese vs Phoenix - 4
+3 - Spirit vs Crows - 4
+5 - Steel vs Silver Androids - 0
+3 - Llamas vs Nationals - 0
+1 - Heavenly vs Glorious Devils - 2
+4 - Chosen vs Prime Gophers - 2
+1 - Thunder vs Hungry Werewolves - 1
+
+----- Round 7 ----- 
+1 - Phoenix vs T1 - 3
+1 - Crows vs Big Cheese - 0
+0 - Silver Androids vs Spirit - 2
+3 - Nationals vs Steel - 4
+0 - Glorious Devils vs Llamas - 1
+2 - Prime Gophers vs Heavenly - 4
+3 - Hungry Werewolves vs Chosen - 4
+4 - Lightning vs Thunder - 1
+
+----- Round 8 ----- 
+5 - Big Cheese vs T1 - 4
+2 - Spirit vs Crows - 1
+3 - Steel vs Silver Androids - 3
+4 - Llamas vs Nationals - 0
+0 - Heavenly vs Glorious Devils - 1
+5 - Chosen vs Prime Gophers - 3
+0 - Thunder vs Hungry Werewolves - 3
+1 - Phoenix vs Lightning - 3
+
+----- Round 9 ----- 
+0 - Crows vs T1 - 2
+0 - Silver Androids vs Spirit - 1
+2 - Nationals vs Steel - 2
+5 - Glorious Devils vs Llamas - 2
+3 - Prime Gophers vs Heavenly - 4
+4 - Hungry Werewolves vs Chosen - 3
+4 - Lightning vs Thunder - 2
+5 - Big Cheese vs Phoenix - 0
+
+----- Round 10 ----- 
+5 - Spirit vs T1 - 0
+2 - Steel vs Silver Androids - 3
+4 - Llamas vs Nationals - 1
+0 - Heavenly vs Glorious Devils - 1
+0 - Chosen vs Prime Gophers - 4
+2 - Thunder vs Hungry Werewolves - 0
+2 - Phoenix vs Lightning - 1
+1 - Crows vs Big Cheese - 4
+
+----- Round 11 ----- 
+4 - Silver Androids vs T1 - 4
+0 - Nationals vs Steel - 2
+2 - Glorious Devils vs Llamas - 4
+2 - Prime Gophers vs Heavenly - 4
+2 - Hungry Werewolves vs Chosen - 3
+4 - Lightning vs Thunder - 4
+3 - Big Cheese vs Phoenix - 1
+5 - Spirit vs Crows - 4
+
+----- Round 12 ----- 
+4 - Steel vs T1 - 1
+4 - Llamas vs Nationals - 4
+5 - Heavenly vs Glorious Devils - 1
+3 - Chosen vs Prime Gophers - 4
+1 - Thunder vs Hungry Werewolves - 0
+4 - Phoenix vs Lightning - 4
+2 - Crows vs Big Cheese - 4
+1 - Silver Androids vs Spirit - 1
+
+----- Round 13 ----- 
+4 - Nationals vs T1 - 0
+1 - Glorious Devils vs Llamas - 4
+1 - Prime Gophers vs Heavenly - 0
+2 - Hungry Werewolves vs Chosen - 2
+3 - Lightning vs Thunder - 4
+2 - Big Cheese vs Phoenix - 2
+5 - Spirit vs Crows - 4
+0 - Steel vs Silver Androids - 0
+
+----- Round 14 ----- 
+3 - Llamas vs T1 - 3
+5 - Heavenly vs Glorious Devils - 0
+0 - Chosen vs Prime Gophers - 3
+0 - Thunder vs Hungry Werewolves - 2
+3 - Phoenix vs Lightning - 1
+0 - Crows vs Big Cheese - 2
+4 - Silver Androids vs Spirit - 1
+0 - Nationals vs Steel - 2
+
+----- Round 15 ----- 
+0 - Glorious Devils vs T1 - 1
+4 - Prime Gophers vs Heavenly - 0
+3 - Hungry Werewolves vs Chosen - 1
+3 - Lightning vs Thunder - 1
+5 - Big Cheese vs Phoenix - 3
+5 - Spirit vs Crows - 3
+3 - Steel vs Silver Androids - 3
+4 - Llamas vs Nationals - 3
+
+
+
+Team Performance
+
+T1 G:30 PTS:58 W:17 D:7 L:6 GF:81 GA:53
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Heavenly G:30 PTS:47 W:15 D:2 L:13 GF:69 GA:56
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Prime Gophers G:30 PTS:36 W:11 D:3 L:16 GF:63 GA:80
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chosen G:30 PTS:44 W:12 D:8 L:10 GF:76 GA:73
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hungry Werewolves G:30 PTS:38 W:11 D:5 L:14 GF:69 GA:66
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Thunder G:30 PTS:39 W:12 D:3 L:15 GF:59 GA:78
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lightning G:30 PTS:41 W:12 D:5 L:13 GF:77 GA:77
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Phoenix G:30 PTS:40 W:12 D:4 L:14 GF:76 GA:72
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Big Cheese G:30 PTS:49 W:15 D:4 L:11 GF:71 GA:67
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Crows G:30 PTS:39 W:12 D:3 L:15 GF:64 GA:71
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Spirit G:30 PTS:48 W:15 D:3 L:12 GF:78 GA:74
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Silver Androids G:30 PTS:40 W:11 D:7 L:12 GF:61 GA:67
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Steel G:30 PTS:45 W:13 D:6 L:11 GF:59 GA:50
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nationals G:30 PTS:39 W:12 D:3 L:15 GF:63 GA:68
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Llamas G:30 PTS:43 W:12 D:7 L:11 GF:73 GA:77
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Glorious Devils G:30 PTS:36 W:10 D:6 L:14 GF:60 GA:70
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Players Goals
+
+T1
+Alexander Rating: 0 Games:30 Goals:25
+Adama Rating: 0 Games:30 Goals:35
+Munain Rating: 0 Games:30 Goals:21
+
+Heavenly
+Gray Rating: 0 Games:30 Goals:31
+Dybala Rating: 0 Games:30 Goals:15
+Martinelli Rating: 0 Games:30 Goals:23
+
+Prime Gophers
+Karim Rating: 0 Games:30 Goals:19
+Radja Rating: 0 Games:30 Goals:21
+Ndombele Rating: 0 Games:30 Goals:23
+
+Chosen
+Marc Rating: 0 Games:30 Goals:24
+Riewolt Rating: 0 Games:30 Goals:25
+Lozano Rating: 0 Games:30 Goals:27
+
+Hungry Werewolves
+Cotchin Rating: 0 Games:30 Goals:23
+Antony Rating: 0 Games:30 Goals:18
+Fati Rating: 0 Games:30 Goals:28
+
+Thunder
+Isak Rating: 0 Games:30 Goals:19
+Neves Rating: 0 Games:30 Goals:20
+Gaya Rating: 0 Games:30 Goals:20
+
+Lightning
+Silva Rating: 0 Games:30 Goals:29
+Moreno Rating: 0 Games:30 Goals:23
+MarcoRe Rating: 0 Games:30 Goals:25
+
+Phoenix
+Dani Rating: 0 Games:30 Goals:23
+Paik Rating: 0 Games:30 Goals:30
+H-Wilson Rating: 0 Games:30 Goals:23
+
+Big Cheese
+HuengMin Rating: 0 Games:30 Goals:28
+James Rating: 0 Games:30 Goals:17
+Malen Rating: 0 Games:30 Goals:26
+
+Crows
+Gibbs Rating: 0 Games:30 Goals:25
+Martinez Rating: 0 Games:30 Goals:18
+Concalves Rating: 0 Games:30 Goals:21
+
+Spirit
+Mahrez Rating: 0 Games:30 Goals:31
+Leon Rating: 0 Games:30 Goals:27
+Gavito Rating: 0 Games:30 Goals:20
+
+Silver Androids
+Hudson Rating: 0 Games:30 Goals:14
+Di Rating: 0 Games:30 Goals:23
+Llorente Rating: 0 Games:30 Goals:24
+
+Steel
+Lorenzo Rating: 0 Games:30 Goals:18
+Fekir Rating: 0 Games:30 Goals:12
+Dixon Rating: 0 Games:30 Goals:29
+
+Nationals
+Youri Rating: 0 Games:30 Goals:27
+Neto Rating: 0 Games:30 Goals:20
+DeKete Rating: 0 Games:30 Goals:16
+
+Llamas
+Moreno Rating: 0 Games:30 Goals:26
+Dow Rating: 0 Games:30 Goals:21
+Zlatan Rating: 0 Games:30 Goals:26
+
+Glorious Devils
+William Rating: 0 Games:30 Goals:15
+Lynch Rating: 0 Games:30 Goals:26
+Sterling Rating: 0 Games:30 Goals:19
+
+
+
+League Table
+
+1.T1 - 58
+2.Big Cheese - 49
+3.Spirit - 48
+4.Heavenly - 47
+5.Steel - 45
+6.Chosen - 44
+7.Llamas - 43
+8.Lightning - 41
+9.Phoenix - 40
+10.Silver Androids - 40
+11.Thunder - 39
+12.Crows - 39
+13.Nationals - 39
+14.Hungry Werewolves - 38
+15.Prime Gophers - 36
+16.Glorious Devils - 36

@@ -1,0 +1,6 @@
+Admirals
+Lance 75 0 0 18
+Bolton 77 0 0 20
+Dow 76 0 0 23
+Ralph 79 0 0 26
+Lamela 75 0 0 30

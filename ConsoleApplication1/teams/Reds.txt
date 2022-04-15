@@ -1,0 +1,4 @@
+Reds
+Alberto 0 100 21 1
+Dembele 0 104 28 1
+Podence 0 107 22 1

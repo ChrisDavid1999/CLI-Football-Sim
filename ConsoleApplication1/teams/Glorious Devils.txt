@@ -1,0 +1,4 @@
+Glorious Devils
+William 0 110 15 1
+Lynch 0 95 26 1
+Sterling 0 108 19 1

@@ -1,0 +1,6 @@
+Quick Goats
+Gray 78 0 0 25
+Fantasia 80 0 0 27
+Butters 76 0 0 29
+Dani 77 0 0 24
+Pepe 77 0 0 23

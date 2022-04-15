@@ -1,0 +1,4 @@
+Thunder
+Isak 0 100 19 1
+Neves 0 94 20 1
+Gaya 0 110 20 1

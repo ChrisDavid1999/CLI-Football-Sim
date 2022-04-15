@@ -1,0 +1,440 @@
+----- Round 1 ----- 
+4 - Kings vs Fabulous Crunchers - 4
+2 - Marvels vs Golden - 1
+2 - Centaurs vs Royals - 0
+2 - Boars vs Chickens - 3
+5 - Worms vs Reds - 3
+0 - Camels vs TSM - 4
+0 - Gunners vs Blitzes - 3
+0 - Marvelous vs Eager - 1
+
+----- Round 2 ----- 
+1 - Kings vs Marvels - 3
+5 - Golden vs Centaurs - 3
+0 - Royals vs Boars - 4
+3 - Chickens vs Worms - 3
+4 - Reds vs Camels - 4
+3 - TSM vs Gunners - 0
+1 - Blitzes vs Marvelous - 3
+4 - Eager vs Fabulous Crunchers - 3
+
+----- Round 3 ----- 
+2 - Kings vs Golden - 1
+0 - Centaurs vs Royals - 1
+1 - Boars vs Chickens - 0
+5 - Worms vs Reds - 3
+1 - Camels vs TSM - 2
+3 - Gunners vs Blitzes - 2
+5 - Marvelous vs Eager - 3
+0 - Fabulous Crunchers vs Marvels - 1
+
+----- Round 4 ----- 
+3 - Kings vs Centaurs - 4
+5 - Royals vs Boars - 0
+3 - Chickens vs Worms - 2
+1 - Reds vs Camels - 3
+0 - TSM vs Gunners - 1
+0 - Blitzes vs Marvelous - 1
+2 - Eager vs Fabulous Crunchers - 1
+2 - Marvels vs Golden - 4
+
+----- Round 5 ----- 
+3 - Kings vs Royals - 3
+2 - Boars vs Chickens - 0
+4 - Worms vs Reds - 3
+5 - Camels vs TSM - 3
+0 - Gunners vs Blitzes - 4
+5 - Marvelous vs Eager - 1
+2 - Fabulous Crunchers vs Marvels - 2
+4 - Golden vs Centaurs - 0
+
+----- Round 6 ----- 
+5 - Kings vs Boars - 1
+3 - Chickens vs Worms - 4
+4 - Reds vs Camels - 0
+0 - TSM vs Gunners - 0
+1 - Blitzes vs Marvelous - 3
+3 - Eager vs Fabulous Crunchers - 3
+0 - Marvels vs Golden - 3
+1 - Centaurs vs Royals - 2
+
+----- Round 7 ----- 
+5 - Kings vs Chickens - 0
+5 - Worms vs Reds - 3
+3 - Camels vs TSM - 2
+4 - Gunners vs Blitzes - 4
+0 - Marvelous vs Eager - 0
+0 - Fabulous Crunchers vs Marvels - 1
+3 - Golden vs Centaurs - 3
+4 - Royals vs Boars - 2
+
+----- Round 8 ----- 
+5 - Kings vs Worms - 1
+0 - Reds vs Camels - 2
+4 - TSM vs Gunners - 1
+1 - Blitzes vs Marvelous - 0
+3 - Eager vs Fabulous Crunchers - 4
+0 - Marvels vs Golden - 1
+5 - Centaurs vs Royals - 0
+4 - Boars vs Chickens - 4
+
+----- Round 9 ----- 
+3 - Kings vs Reds - 2
+4 - Camels vs TSM - 0
+2 - Gunners vs Blitzes - 3
+0 - Marvelous vs Eager - 3
+0 - Fabulous Crunchers vs Marvels - 1
+0 - Golden vs Centaurs - 0
+3 - Royals vs Boars - 0
+3 - Chickens vs Worms - 1
+
+----- Round 10 ----- 
+3 - Kings vs Camels - 1
+2 - TSM vs Gunners - 4
+0 - Blitzes vs Marvelous - 0
+0 - Eager vs Fabulous Crunchers - 0
+1 - Marvels vs Golden - 4
+2 - Centaurs vs Royals - 3
+4 - Boars vs Chickens - 3
+2 - Worms vs Reds - 1
+
+----- Round 11 ----- 
+3 - Kings vs TSM - 0
+2 - Gunners vs Blitzes - 1
+3 - Marvelous vs Eager - 1
+2 - Fabulous Crunchers vs Marvels - 1
+0 - Golden vs Centaurs - 2
+5 - Royals vs Boars - 4
+2 - Chickens vs Worms - 4
+0 - Reds vs Camels - 1
+
+----- Round 12 ----- 
+3 - Kings vs Gunners - 0
+4 - Blitzes vs Marvelous - 0
+3 - Eager vs Fabulous Crunchers - 1
+2 - Marvels vs Golden - 4
+1 - Centaurs vs Royals - 4
+3 - Boars vs Chickens - 1
+3 - Worms vs Reds - 3
+4 - Camels vs TSM - 2
+
+----- Round 13 ----- 
+5 - Kings vs Blitzes - 1
+5 - Marvelous vs Eager - 2
+3 - Fabulous Crunchers vs Marvels - 2
+2 - Golden vs Centaurs - 4
+0 - Royals vs Boars - 3
+5 - Chickens vs Worms - 3
+4 - Reds vs Camels - 0
+3 - TSM vs Gunners - 3
+
+----- Round 14 ----- 
+2 - Kings vs Marvelous - 0
+4 - Eager vs Fabulous Crunchers - 2
+2 - Marvels vs Golden - 3
+1 - Centaurs vs Royals - 4
+4 - Boars vs Chickens - 4
+2 - Worms vs Reds - 3
+0 - Camels vs TSM - 4
+4 - Gunners vs Blitzes - 2
+
+----- Round 15 ----- 
+4 - Kings vs Eager - 0
+5 - Fabulous Crunchers vs Marvels - 4
+5 - Golden vs Centaurs - 0
+1 - Royals vs Boars - 2
+3 - Chickens vs Worms - 3
+4 - Reds vs Camels - 3
+4 - TSM vs Gunners - 2
+5 - Blitzes vs Marvelous - 0
+
+----- Round 1 ----- 
+0 - Fabulous Crunchers vs Kings - 2
+2 - Golden vs Marvels - 3
+1 - Royals vs Centaurs - 3
+3 - Chickens vs Boars - 1
+5 - Reds vs Worms - 4
+3 - TSM vs Camels - 3
+1 - Blitzes vs Gunners - 0
+3 - Eager vs Marvelous - 1
+
+----- Round 2 ----- 
+3 - Marvels vs Kings - 0
+3 - Centaurs vs Golden - 0
+5 - Boars vs Royals - 0
+1 - Worms vs Chickens - 3
+4 - Camels vs Reds - 1
+3 - Gunners vs TSM - 2
+2 - Marvelous vs Blitzes - 1
+4 - Fabulous Crunchers vs Eager - 3
+
+----- Round 3 ----- 
+3 - Golden vs Kings - 2
+1 - Royals vs Centaurs - 4
+5 - Chickens vs Boars - 1
+1 - Reds vs Worms - 2
+1 - TSM vs Camels - 2
+1 - Blitzes vs Gunners - 2
+2 - Eager vs Marvelous - 2
+0 - Marvels vs Fabulous Crunchers - 1
+
+----- Round 4 ----- 
+1 - Centaurs vs Kings - 2
+2 - Boars vs Royals - 0
+4 - Worms vs Chickens - 4
+0 - Camels vs Reds - 0
+4 - Gunners vs TSM - 1
+1 - Marvelous vs Blitzes - 1
+5 - Fabulous Crunchers vs Eager - 0
+4 - Golden vs Marvels - 0
+
+----- Round 5 ----- 
+4 - Royals vs Kings - 1
+3 - Chickens vs Boars - 4
+4 - Reds vs Worms - 0
+4 - TSM vs Camels - 2
+5 - Blitzes vs Gunners - 3
+1 - Eager vs Marvelous - 2
+2 - Marvels vs Fabulous Crunchers - 2
+0 - Centaurs vs Golden - 2
+
+----- Round 6 ----- 
+0 - Boars vs Kings - 4
+3 - Worms vs Chickens - 4
+1 - Camels vs Reds - 4
+2 - Gunners vs TSM - 0
+0 - Marvelous vs Blitzes - 0
+3 - Fabulous Crunchers vs Eager - 2
+5 - Golden vs Marvels - 4
+2 - Royals vs Centaurs - 3
+
+----- Round 7 ----- 
+1 - Chickens vs Kings - 4
+0 - Reds vs Worms - 3
+1 - TSM vs Camels - 3
+3 - Blitzes vs Gunners - 2
+2 - Eager vs Marvelous - 3
+2 - Marvels vs Fabulous Crunchers - 2
+4 - Centaurs vs Golden - 0
+3 - Boars vs Royals - 2
+
+----- Round 8 ----- 
+2 - Worms vs Kings - 0
+3 - Camels vs Reds - 4
+0 - Gunners vs TSM - 4
+3 - Marvelous vs Blitzes - 1
+4 - Fabulous Crunchers vs Eager - 2
+1 - Golden vs Marvels - 1
+3 - Royals vs Centaurs - 2
+0 - Chickens vs Boars - 3
+
+----- Round 9 ----- 
+4 - Reds vs Kings - 4
+3 - TSM vs Camels - 1
+3 - Blitzes vs Gunners - 3
+4 - Eager vs Marvelous - 1
+3 - Marvels vs Fabulous Crunchers - 3
+3 - Centaurs vs Golden - 1
+5 - Boars vs Royals - 0
+3 - Worms vs Chickens - 1
+
+----- Round 10 ----- 
+0 - Camels vs Kings - 1
+3 - Gunners vs TSM - 2
+4 - Marvelous vs Blitzes - 4
+2 - Fabulous Crunchers vs Eager - 0
+5 - Golden vs Marvels - 2
+5 - Royals vs Centaurs - 4
+3 - Chickens vs Boars - 0
+0 - Reds vs Worms - 4
+
+----- Round 11 ----- 
+4 - TSM vs Kings - 4
+3 - Blitzes vs Gunners - 3
+5 - Eager vs Marvelous - 4
+0 - Marvels vs Fabulous Crunchers - 1
+1 - Centaurs vs Golden - 3
+2 - Boars vs Royals - 1
+3 - Worms vs Chickens - 3
+3 - Camels vs Reds - 3
+
+----- Round 12 ----- 
+2 - Gunners vs Kings - 2
+3 - Marvelous vs Blitzes - 1
+1 - Fabulous Crunchers vs Eager - 1
+0 - Golden vs Marvels - 2
+4 - Royals vs Centaurs - 3
+4 - Chickens vs Boars - 0
+4 - Reds vs Worms - 3
+0 - TSM vs Camels - 3
+
+----- Round 13 ----- 
+0 - Blitzes vs Kings - 4
+5 - Eager vs Marvelous - 2
+0 - Marvels vs Fabulous Crunchers - 1
+5 - Centaurs vs Golden - 0
+4 - Boars vs Royals - 3
+5 - Worms vs Chickens - 2
+3 - Camels vs Reds - 2
+1 - Gunners vs TSM - 4
+
+----- Round 14 ----- 
+1 - Marvelous vs Kings - 0
+1 - Fabulous Crunchers vs Eager - 1
+4 - Golden vs Marvels - 3
+4 - Royals vs Centaurs - 1
+2 - Chickens vs Boars - 1
+0 - Reds vs Worms - 2
+1 - TSM vs Camels - 4
+0 - Blitzes vs Gunners - 4
+
+----- Round 15 ----- 
+5 - Eager vs Kings - 4
+2 - Marvels vs Fabulous Crunchers - 1
+4 - Centaurs vs Golden - 1
+5 - Boars vs Royals - 0
+0 - Worms vs Chickens - 1
+3 - Camels vs Reds - 1
+3 - Gunners vs TSM - 2
+2 - Marvelous vs Blitzes - 3
+
+
+
+Team Performance
+
+Kings G:30 PTS:56 W:17 D:5 L:8 GF:85 GA:51
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fabulous Crunchers G:30 PTS:45 W:12 D:9 L:9 GF:61 GA:55
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Marvels G:30 PTS:32 W:9 D:5 L:16 GF:51 GA:65
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Golden G:30 PTS:51 W:16 D:3 L:11 GF:71 GA:60
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Centaurs G:30 PTS:41 W:13 D:2 L:15 GF:69 GA:65
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Royals G:30 PTS:43 W:14 D:1 L:15 GF:65 GA:77
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Boars G:30 PTS:50 W:16 D:2 L:12 GF:72 GA:68
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chickens G:30 PTS:42 W:12 D:6 L:12 GF:76 GA:78
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Worms G:30 PTS:47 W:14 D:5 L:11 GF:86 GA:78
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Reds G:30 PTS:32 W:9 D:5 L:16 GF:71 GA:81
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Camels G:30 PTS:46 W:14 D:4 L:12 GF:66 GA:66
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TSM G:30 PTS:34 W:10 D:4 L:16 GF:65 GA:69
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gunners G:30 PTS:42 W:12 D:6 L:12 GF:61 GA:71
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Blitzes G:30 PTS:37 W:10 D:7 L:13 GF:59 GA:63
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Marvelous G:30 PTS:45 W:13 D:6 L:11 GF:56 GA:58
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Eager G:30 PTS:39 W:11 D:6 L:13 GF:66 GA:75
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Players Goals
+
+Kings
+Gavio Rating: 0 Games:30 Goals:29
+Yamalenko Rating: 0 Games:30 Goals:22
+Jota Rating: 0 Games:30 Goals:34
+
+Fabulous Crunchers
+Ciro Rating: 0 Games:30 Goals:23
+Pogba Rating: 0 Games:30 Goals:22
+Jude Rating: 0 Games:30 Goals:16
+
+Marvels
+BenYedder Rating: 0 Games:30 Goals:13
+Eriksen Rating: 0 Games:30 Goals:20
+Kubo Rating: 0 Games:30 Goals:18
+
+Golden
+Said Rating: 0 Games:30 Goals:29
+Firmino Rating: 0 Games:30 Goals:23
+Ralph Rating: 0 Games:30 Goals:19
+
+Centaurs
+Vardy Rating: 0 Games:30 Goals:25
+Oscar Rating: 0 Games:30 Goals:23
+Serjec Rating: 0 Games:30 Goals:21
+
+Royals
+Foden Rating: 0 Games:30 Goals:16
+Coman Rating: 0 Games:30 Goals:28
+Reece Rating: 0 Games:30 Goals:21
+
+Boars
+Josip Rating: 0 Games:30 Goals:19
+Bernard Rating: 0 Games:30 Goals:25
+Florian Rating: 0 Games:30 Goals:28
+
+Chickens
+Volland Rating: 0 Games:30 Goals:21
+Rodrigez Rating: 0 Games:30 Goals:31
+Madinson Rating: 0 Games:30 Goals:24
+
+Worms
+Ronaldo Rating: 0 Games:30 Goals:28
+Yannick Rating: 0 Games:30 Goals:27
+Row Rating: 0 Games:30 Goals:31
+
+Reds
+Alberto Rating: 0 Games:30 Goals:21
+Dembele Rating: 0 Games:30 Goals:28
+Podence Rating: 0 Games:30 Goals:22
+
+Camels
+Koke Rating: 0 Games:30 Goals:24
+Dialo Rating: 0 Games:30 Goals:25
+Domonic Rating: 0 Games:30 Goals:17
+
+TSM
+Edurado Rating: 0 Games:30 Goals:20
+Lacozett Rating: 0 Games:30 Goals:30
+Leroy Rating: 0 Games:30 Goals:15
+
+Gunners
+Correa Rating: 0 Games:30 Goals:17
+Kessi Rating: 0 Games:30 Goals:26
+Nuno Rating: 0 Games:30 Goals:18
+
+Blitzes
+Doku Rating: 0 Games:30 Goals:22
+Arthur Rating: 0 Games:30 Goals:20
+Cherki Rating: 0 Games:30 Goals:17
+
+Marvelous
+Pepe Rating: 0 Games:30 Goals:23
+Grealish Rating: 0 Games:30 Goals:16
+Nathan Rating: 0 Games:30 Goals:17
+
+Eager
+Havertz Rating: 0 Games:30 Goals:33
+Anton Rating: 0 Games:30 Goals:22
+Marco Rating: 0 Games:30 Goals:11
+
+
+
+League Table
+
+1.Kings - 56
+2.Golden - 51
+3.Boars - 50
+4.Worms - 47
+5.Camels - 46
+6.Fabulous Crunchers - 45
+7.Marvelous - 45
+8.Royals - 43
+9.Chickens - 42
+10.Gunners - 42
+11.Centaurs - 41
+12.Eager - 39
+13.Blitzes - 37
+14.TSM - 34
+15.Marvels - 32
+16.Reds - 32

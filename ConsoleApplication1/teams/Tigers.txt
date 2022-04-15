@@ -1,0 +1,4 @@
+Tigers
+Ocampos 0 96 19 1
+Kane 0 98 23 1
+Ladhams 0 101 17 1

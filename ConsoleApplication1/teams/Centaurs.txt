@@ -1,0 +1,4 @@
+Centaurs
+Vardy 0 101 25 1
+Oscar 0 93 23 1
+Serjec 0 93 21 1

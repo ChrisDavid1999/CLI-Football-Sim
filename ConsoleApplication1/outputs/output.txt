@@ -1,0 +1,440 @@
+----- Round 1 ----- 
+2 - Heavenly vs T1 - 4
+5 - Llamas vs Lost - 2
+3 - Golden vs Tigers - 4
+2 - Chimpanzees vs Nationals - 2
+3 - Chickens vs Centaurs - 1
+0 - Eager vs Prime Gophers - 0
+0 - Aces vs Gusts - 0
+1 - Bears vs Giants - 3
+
+----- Round 2 ----- 
+0 - Heavenly vs Llamas - 3
+4 - Lost vs Golden - 3
+2 - Tigers vs Chimpanzees - 1
+0 - Nationals vs Chickens - 0
+2 - Centaurs vs Eager - 1
+0 - Prime Gophers vs Aces - 4
+4 - Gusts vs Bears - 0
+5 - Giants vs T1 - 1
+
+----- Round 3 ----- 
+0 - Heavenly vs Lost - 4
+2 - Golden vs Tigers - 4
+0 - Chimpanzees vs Nationals - 0
+1 - Chickens vs Centaurs - 2
+5 - Eager vs Prime Gophers - 3
+1 - Aces vs Gusts - 1
+2 - Bears vs Giants - 0
+5 - T1 vs Llamas - 2
+
+----- Round 4 ----- 
+4 - Heavenly vs Golden - 4
+4 - Tigers vs Chimpanzees - 2
+0 - Nationals vs Chickens - 4
+3 - Centaurs vs Eager - 2
+0 - Prime Gophers vs Aces - 1
+3 - Gusts vs Bears - 4
+4 - Giants vs T1 - 2
+2 - Llamas vs Lost - 1
+
+----- Round 5 ----- 
+4 - Heavenly vs Tigers - 2
+4 - Chimpanzees vs Nationals - 1
+2 - Chickens vs Centaurs - 4
+0 - Eager vs Prime Gophers - 4
+5 - Aces vs Gusts - 4
+2 - Bears vs Giants - 4
+2 - T1 vs Llamas - 2
+3 - Lost vs Golden - 0
+
+----- Round 6 ----- 
+4 - Heavenly vs Chimpanzees - 4
+2 - Nationals vs Chickens - 0
+1 - Centaurs vs Eager - 3
+1 - Prime Gophers vs Aces - 3
+3 - Gusts vs Bears - 4
+5 - Giants vs T1 - 2
+5 - Llamas vs Lost - 2
+3 - Golden vs Tigers - 2
+
+----- Round 7 ----- 
+5 - Heavenly vs Nationals - 2
+1 - Chickens vs Centaurs - 1
+4 - Eager vs Prime Gophers - 4
+0 - Aces vs Gusts - 4
+2 - Bears vs Giants - 0
+4 - T1 vs Llamas - 4
+3 - Lost vs Golden - 2
+3 - Tigers vs Chimpanzees - 4
+
+----- Round 8 ----- 
+4 - Heavenly vs Chickens - 3
+2 - Centaurs vs Eager - 0
+0 - Prime Gophers vs Aces - 1
+5 - Gusts vs Bears - 1
+5 - Giants vs T1 - 3
+1 - Llamas vs Lost - 2
+4 - Golden vs Tigers - 1
+5 - Chimpanzees vs Nationals - 2
+
+----- Round 9 ----- 
+3 - Heavenly vs Centaurs - 0
+1 - Eager vs Prime Gophers - 3
+1 - Aces vs Gusts - 2
+1 - Bears vs Giants - 3
+5 - T1 vs Llamas - 3
+4 - Lost vs Golden - 3
+3 - Tigers vs Chimpanzees - 1
+1 - Nationals vs Chickens - 4
+
+----- Round 10 ----- 
+2 - Heavenly vs Eager - 4
+3 - Prime Gophers vs Aces - 2
+0 - Gusts vs Bears - 1
+3 - Giants vs T1 - 0
+5 - Llamas vs Lost - 2
+2 - Golden vs Tigers - 3
+3 - Chimpanzees vs Nationals - 1
+1 - Chickens vs Centaurs - 2
+
+----- Round 11 ----- 
+2 - Heavenly vs Prime Gophers - 3
+4 - Aces vs Gusts - 4
+1 - Bears vs Giants - 3
+5 - T1 vs Llamas - 1
+2 - Lost vs Golden - 4
+5 - Tigers vs Chimpanzees - 2
+0 - Nationals vs Chickens - 4
+5 - Centaurs vs Eager - 3
+
+----- Round 12 ----- 
+2 - Heavenly vs Aces - 2
+0 - Gusts vs Bears - 2
+5 - Giants vs T1 - 0
+4 - Llamas vs Lost - 3
+0 - Golden vs Tigers - 4
+1 - Chimpanzees vs Nationals - 1
+3 - Chickens vs Centaurs - 4
+0 - Eager vs Prime Gophers - 3
+
+----- Round 13 ----- 
+5 - Heavenly vs Gusts - 1
+2 - Bears vs Giants - 4
+5 - T1 vs Llamas - 1
+1 - Lost vs Golden - 0
+5 - Tigers vs Chimpanzees - 1
+2 - Nationals vs Chickens - 1
+3 - Centaurs vs Eager - 0
+2 - Prime Gophers vs Aces - 4
+
+----- Round 14 ----- 
+3 - Heavenly vs Bears - 3
+3 - Giants vs T1 - 0
+5 - Llamas vs Lost - 1
+5 - Golden vs Tigers - 2
+0 - Chimpanzees vs Nationals - 4
+5 - Chickens vs Centaurs - 3
+1 - Eager vs Prime Gophers - 4
+4 - Aces vs Gusts - 0
+
+----- Round 15 ----- 
+4 - Heavenly vs Giants - 3
+4 - T1 vs Llamas - 4
+4 - Lost vs Golden - 1
+5 - Tigers vs Chimpanzees - 4
+3 - Nationals vs Chickens - 0
+5 - Centaurs vs Eager - 0
+1 - Prime Gophers vs Aces - 2
+4 - Gusts vs Bears - 3
+
+----- Round 1 ----- 
+1 - T1 vs Heavenly - 1
+1 - Lost vs Llamas - 0
+4 - Tigers vs Golden - 4
+3 - Nationals vs Chimpanzees - 2
+1 - Centaurs vs Chickens - 2
+1 - Prime Gophers vs Eager - 4
+0 - Gusts vs Aces - 2
+4 - Giants vs Bears - 3
+
+----- Round 2 ----- 
+5 - Llamas vs Heavenly - 0
+2 - Golden vs Lost - 3
+3 - Chimpanzees vs Tigers - 4
+1 - Chickens vs Nationals - 1
+0 - Eager vs Centaurs - 3
+1 - Aces vs Prime Gophers - 0
+3 - Bears vs Gusts - 4
+2 - T1 vs Giants - 4
+
+----- Round 3 ----- 
+5 - Lost vs Heavenly - 1
+3 - Tigers vs Golden - 3
+3 - Nationals vs Chimpanzees - 0
+4 - Centaurs vs Chickens - 4
+3 - Prime Gophers vs Eager - 4
+2 - Gusts vs Aces - 2
+2 - Giants vs Bears - 2
+4 - Llamas vs T1 - 0
+
+----- Round 4 ----- 
+3 - Golden vs Heavenly - 3
+4 - Chimpanzees vs Tigers - 4
+3 - Chickens vs Nationals - 4
+0 - Eager vs Centaurs - 0
+1 - Aces vs Prime Gophers - 1
+0 - Bears vs Gusts - 3
+1 - T1 vs Giants - 0
+5 - Lost vs Llamas - 2
+
+----- Round 5 ----- 
+2 - Tigers vs Heavenly - 0
+5 - Nationals vs Chimpanzees - 1
+3 - Centaurs vs Chickens - 3
+1 - Prime Gophers vs Eager - 2
+5 - Gusts vs Aces - 3
+0 - Giants vs Bears - 1
+2 - Llamas vs T1 - 3
+0 - Golden vs Lost - 3
+
+----- Round 6 ----- 
+1 - Chimpanzees vs Heavenly - 2
+2 - Chickens vs Nationals - 4
+1 - Eager vs Centaurs - 3
+1 - Aces vs Prime Gophers - 1
+2 - Bears vs Gusts - 3
+0 - T1 vs Giants - 1
+4 - Lost vs Llamas - 0
+2 - Tigers vs Golden - 3
+
+----- Round 7 ----- 
+0 - Nationals vs Heavenly - 1
+0 - Centaurs vs Chickens - 0
+1 - Prime Gophers vs Eager - 4
+4 - Gusts vs Aces - 0
+1 - Giants vs Bears - 1
+2 - Llamas vs T1 - 2
+3 - Golden vs Lost - 0
+3 - Chimpanzees vs Tigers - 4
+
+----- Round 8 ----- 
+0 - Chickens vs Heavenly - 3
+4 - Eager vs Centaurs - 1
+0 - Aces vs Prime Gophers - 1
+3 - Bears vs Gusts - 2
+2 - T1 vs Giants - 4
+1 - Lost vs Llamas - 3
+5 - Tigers vs Golden - 2
+2 - Nationals vs Chimpanzees - 2
+
+----- Round 9 ----- 
+0 - Centaurs vs Heavenly - 4
+4 - Prime Gophers vs Eager - 4
+3 - Gusts vs Aces - 4
+4 - Giants vs Bears - 4
+4 - Llamas vs T1 - 0
+1 - Golden vs Lost - 0
+1 - Chimpanzees vs Tigers - 0
+5 - Chickens vs Nationals - 0
+
+----- Round 10 ----- 
+4 - Eager vs Heavenly - 3
+2 - Aces vs Prime Gophers - 4
+0 - Bears vs Gusts - 3
+4 - T1 vs Giants - 0
+1 - Lost vs Llamas - 3
+1 - Tigers vs Golden - 2
+1 - Nationals vs Chimpanzees - 0
+2 - Centaurs vs Chickens - 0
+
+----- Round 11 ----- 
+5 - Prime Gophers vs Heavenly - 1
+1 - Gusts vs Aces - 3
+1 - Giants vs Bears - 4
+5 - Llamas vs T1 - 2
+1 - Golden vs Lost - 0
+3 - Chimpanzees vs Tigers - 4
+4 - Chickens vs Nationals - 3
+0 - Eager vs Centaurs - 2
+
+----- Round 12 ----- 
+0 - Aces vs Heavenly - 4
+5 - Bears vs Gusts - 0
+3 - T1 vs Giants - 3
+5 - Lost vs Llamas - 3
+0 - Tigers vs Golden - 1
+5 - Nationals vs Chimpanzees - 0
+2 - Centaurs vs Chickens - 4
+2 - Prime Gophers vs Eager - 2
+
+----- Round 13 ----- 
+4 - Gusts vs Heavenly - 1
+0 - Giants vs Bears - 4
+1 - Llamas vs T1 - 4
+2 - Golden vs Lost - 4
+3 - Chimpanzees vs Tigers - 0
+2 - Chickens vs Nationals - 4
+4 - Eager vs Centaurs - 3
+5 - Aces vs Prime Gophers - 4
+
+----- Round 14 ----- 
+2 - Bears vs Heavenly - 2
+1 - T1 vs Giants - 4
+2 - Lost vs Llamas - 3
+5 - Tigers vs Golden - 3
+4 - Nationals vs Chimpanzees - 1
+0 - Centaurs vs Chickens - 1
+3 - Prime Gophers vs Eager - 2
+1 - Gusts vs Aces - 4
+
+----- Round 15 ----- 
+2 - Giants vs Heavenly - 2
+4 - Llamas vs T1 - 0
+3 - Golden vs Lost - 3
+5 - Chimpanzees vs Tigers - 4
+2 - Chickens vs Nationals - 3
+0 - Eager vs Centaurs - 2
+1 - Aces vs Prime Gophers - 4
+3 - Bears vs Gusts - 0
+
+
+
+Team Performance
+
+Heavenly G:30 PTS:41 W:11 D:8 L:11 GF:72 GA:76
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+T1 G:30 PTS:33 W:9 D:6 L:15 GF:67 GA:88
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Llamas G:30 PTS:49 W:15 D:4 L:11 GF:88 GA:73
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lost G:30 PTS:49 W:16 D:1 L:13 GF:75 GA:67
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Golden G:30 PTS:35 W:10 D:5 L:15 GF:69 GA:81
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tigers G:30 PTS:51 W:16 D:3 L:11 GF:91 GA:78
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chimpanzees G:30 PTS:27 W:7 D:6 L:17 GF:63 GA:87
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nationals G:30 PTS:48 W:14 D:6 L:10 GF:63 GA:59
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chickens G:30 PTS:36 W:10 D:6 L:14 GF:65 GA:63
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Centaurs G:30 PTS:50 W:15 D:5 L:10 GF:64 GA:55
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Eager G:30 PTS:35 W:10 D:5 L:15 GF:59 GA:76
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Prime Gophers G:30 PTS:39 W:11 D:6 L:13 GF:66 GA:64
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aces G:30 PTS:49 W:14 D:7 L:9 GF:63 GA:59
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gusts G:30 PTS:40 W:12 D:4 L:14 GF:70 GA:70
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bears G:30 PTS:41 W:12 D:5 L:13 GF:66 GA:68
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Giants G:30 PTS:56 W:17 D:5 L:8 GF:80 GA:57
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Players Goals
+
+Heavenly
+Dele Rating: 0 Games:30 Goals:25
+Havertz Rating: 0 Games:30 Goals:17
+Bowen Rating: 0 Games:30 Goals:30
+
+T1
+Tanguy Rating: 0 Games:30 Goals:24
+Gaya Rating: 0 Games:30 Goals:26
+Rayan Rating: 0 Games:30 Goals:17
+
+Llamas
+Gibbs Rating: 0 Games:30 Goals:29
+Gomez Rating: 0 Games:30 Goals:26
+Aouar Rating: 0 Games:30 Goals:33
+
+Lost
+Foden Rating: 0 Games:30 Goals:20
+Hazard Rating: 0 Games:30 Goals:23
+Fantasia Rating: 0 Games:30 Goals:32
+
+Golden
+Valverde Rating: 0 Games:30 Goals:29
+Pogba Rating: 0 Games:30 Goals:23
+Noble Rating: 0 Games:30 Goals:17
+
+Tigers
+Kane Rating: 0 Games:30 Goals:33
+Alberto Rating: 0 Games:30 Goals:31
+Matty Rating: 0 Games:30 Goals:27
+
+Chimpanzees
+Josip Rating: 0 Games:30 Goals:23
+Pedri Rating: 0 Games:30 Goals:24
+Saka Rating: 0 Games:30 Goals:16
+
+Nationals
+Pulisic Rating: 0 Games:30 Goals:19
+Allan Rating: 0 Games:30 Goals:23
+Lingard Rating: 0 Games:30 Goals:21
+
+Chickens
+Isco Rating: 0 Games:30 Goals:21
+Victor Rating: 0 Games:30 Goals:19
+DeKete Rating: 0 Games:30 Goals:25
+
+Centaurs
+Di Rating: 0 Games:30 Goals:27
+Felix Rating: 0 Games:30 Goals:16
+Keiran Rating: 0 Games:30 Goals:21
+
+Eager
+Gavio Rating: 0 Games:30 Goals:14
+Riyad Rating: 0 Games:30 Goals:26
+Bruno Rating: 0 Games:30 Goals:19
+
+Prime Gophers
+Leroy Rating: 0 Games:30 Goals:30
+Fabio Rating: 0 Games:30 Goals:21
+Kubo Rating: 0 Games:30 Goals:15
+
+Aces
+Marc Rating: 0 Games:30 Goals:24
+Bernard Rating: 0 Games:30 Goals:24
+Zlatan Rating: 0 Games:30 Goals:15
+
+Gusts
+Moutinho Rating: 0 Games:30 Goals:29
+Depay Rating: 0 Games:30 Goals:22
+Messi Rating: 0 Games:30 Goals:19
+
+Bears
+Andre Rating: 0 Games:30 Goals:26
+Oscar Rating: 0 Games:30 Goals:18
+Vardy Rating: 0 Games:30 Goals:22
+
+Giants
+Ronaldo Rating: 0 Games:30 Goals:33
+Zienic Rating: 0 Games:30 Goals:25
+Anton Rating: 0 Games:30 Goals:22
+
+
+
+League Table
+
+1.Giants - 56
+2.Tigers - 51
+3.Centaurs - 50
+4.Llamas - 49
+5.Lost - 49
+6.Aces - 49
+7.Nationals - 48
+8.Heavenly - 41
+9.Bears - 41
+10.Gusts - 40
+11.Prime Gophers - 39
+12.Chickens - 36
+13.Golden - 35
+14.Eager - 35
+15.T1 - 33
+16.Chimpanzees - 27
